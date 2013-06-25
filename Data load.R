@@ -1,0 +1,1 @@
+read.csv2(file.choose())
