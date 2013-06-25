@@ -1,0 +1,15 @@
+{
+    "contents" : "read.csv2(file.choose())",
+    "created" : 1372163851306.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3210480113",
+    "id" : "FEC96EF9",
+    "lastKnownWriteTime" : 1372162398,
+    "path" : "~/GitHub/Derailments/Data load.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
