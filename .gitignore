@@ -1,5 +1,7 @@
-# History files
+# R
 .Rhistory
-
-# Example code in package build process
 *-Ex.R
+\.Rproj.user\
+
+# LaTeX
+
