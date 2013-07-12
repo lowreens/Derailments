@@ -1,6 +1,8 @@
 # R
 .Rhistory
 \.Rproj.user\
-
+.RData
 # LaTeX
 .Rproj.user
+.html
+.htm
